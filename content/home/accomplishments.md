@@ -30,7 +30,7 @@ item:
     organization_url: https://www.24orebs.com/
     title: 'Master Data Science, Big Data & Artificial Intelligence per la Finanza'
     url: ''
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://coursera.org/share/47a2f1693e0047d44dfe008f976f0a33
     date_end: '2022-09-16'
     date_start: '2022-04-16'
     description: ''
