@@ -1,7 +1,7 @@
 ---
 title: Dr. Simon Luca Villani
 role: Theoretical Physicist | Data Analyst  
-bio:  I'm very passionate about studying and solving any kind of problem no matter what tool is needed. I'll learn it. 
+bio:  I'm very passionate student who loves problem solving in any kind of matter. I'll learn it. 
       Specially, I love to find the best and most optimized solution for such problems. 
 
 interests:
