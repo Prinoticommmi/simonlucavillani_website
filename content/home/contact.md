@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
+title: Contact Me
 subtitle:
 
 content:
@@ -25,32 +25,19 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: simon.luca.villani@gmail.com
+  phone: +39 346 515 9009
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    street: Via Ambrogio Binda, 56
+    city: Milan
+    postcode: '20143'
+    country: Italy
+    country_code: IT
   contact_links:
-    - icon: twitter
+    - icon: linkedin
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      name: Link with Me
+      link: 'https://www.linkedin.com/in/simon-luca-villani-403abb176/'
 
 design:
   columns: '2'
