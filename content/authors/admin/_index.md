@@ -11,7 +11,7 @@ interests:
   - Mathematical Methods
   - Programming
   - Finance and Economy
-  - Playing Guitar
+  - Music
 
 social:
   - icon: envelope
@@ -57,4 +57,4 @@ So, welcome to my personal blog :black_nib: where you'll also find bits of my li
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
