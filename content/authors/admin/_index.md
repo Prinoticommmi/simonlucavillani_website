@@ -1,5 +1,5 @@
 ---
-title: Dr. Simon Luca Villani
+title: Simon Luca Villani
 role: Data Analyst | Researcher 
 bio:  I'm very passionate student who loves problem solving in any kind of matter. I'll learn it. 
       Specially, I love to find the best and most optimized solution for such problems. 
