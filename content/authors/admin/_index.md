@@ -55,7 +55,7 @@ By education, I'm just a theoretical physicist, but my passions and expertises a
 technology, programming languages, mathematical modelling, business 
 and finance.
 
-I've recently completed my Ph.D. in theoretical particle physics physics at the Uneversity of Goettingen and I've decided to "drastically" change my career by pursuing that of a data analyst and data scientist. 
+I've recently completed my Ph.D. in theoretical particle physics at the Uneversity of Goettingen and I've decided to "drastically" change my career by pursuing that of a data analyst and data scientist. 
 Currently I'm looking for a proactive and exciting working environment where to bring my strong problem-solving and analytical skills in order to improve the company's decision making.
 
 
