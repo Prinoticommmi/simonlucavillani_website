@@ -50,9 +50,15 @@ highlight_name: true
 
 
 
-By education, I'm just a theoretical physicist :mortar_board:, but my passions and expertises are actually way broader. 
+By education, I'm just a theoretical physicist, but my passions and expertises are actually way broader. 
+
 I love studying new topics, specially related to 
-Starting from an immense love for tech and programming :computer: up to developing general analyses to solve business problems :chart_with_upwards_trend:.
+tech, programming languages, mathematical models and finance, 
+
+I've just completed my Ph.D. in theoretical physics and I've decided to "drastically" change my career by entering the world of data analysis and data science. I'm looking for a proactive and exciting working environment where to bring my strong problem-solving skills and solve business problems drawing useful insights from data, which is key for a successful business.
+
+
+
 
 
 
