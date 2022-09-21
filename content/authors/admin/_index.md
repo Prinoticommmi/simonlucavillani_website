@@ -1,6 +1,6 @@
 ---
 title: Dr. Simon Luca Villani
-role: Theoretical Physicist | Data Analyst  
+role: Data Analyst | Researcher 
 bio:  I'm very passionate student who loves problem solving in any kind of matter. I'll learn it. 
       Specially, I love to find the best and most optimized solution for such problems. 
 
@@ -50,12 +50,13 @@ highlight_name: true
 
 
 
-By education, I'm just a theoretical physicist, but my passions and expertises are actually way broader. 
+By education, I'm just a theoretical physicist, but my passions and expertises are actually much broader,
+*eg*
+technology, programming languages, mathematical modelling, business 
+and finance.
 
-I love studying new topics, specially related to 
-tech, programming languages, mathematical models and finance, 
-
-I've just completed my Ph.D. in theoretical physics and I've decided to "drastically" change my career by entering the world of data analysis and data science. I'm looking for a proactive and exciting working environment where to bring my strong problem-solving skills and solve business problems drawing useful insights from data, which is key for a successful business.
+I've recently completed my Ph.D. in theoretical particle physics physics at the Uneversity of Goettingen and I've decided to "drastically" change my career by pursuing that of a data analyst and data scientist. 
+Currently I'm looking for a proactive and exciting working environment where to bring my strong problem-solving and analytical skills in order to improve the company's decision making.
 
 
 
