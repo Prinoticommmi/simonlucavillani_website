@@ -23,13 +23,6 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - date_end: ''
-    date_start: '2022-09-30'
-    description: ''
-    organization: 24OreBusinessSchool
-    organization_url: https://www.24orebs.com/
-    title: 'Master Data Science, Big Data & Artificial Intelligence per la Finanza'
-    url: ''
   - certificate_url: https://coursera.org/share/47a2f1693e0047d44dfe008f976f0a33
     date_end: '2022-09-16'
     date_start: '2022-04-16'
