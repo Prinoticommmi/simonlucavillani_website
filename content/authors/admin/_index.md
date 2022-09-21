@@ -49,10 +49,11 @@ highlight_name: true
 ---
 
 
+
 By education, I'm just a theoretical physicist :mortar_board:, but my passions and expertises are actually way broader. 
+I love studying new topics, specially related to 
 Starting from an immense love for tech and programming :computer: up to developing general analyses to solve business problems :chart_with_upwards_trend:.
 
-So, welcome to my personal blog :black_nib: where you'll also find bits of my life and education.
 
 
 
